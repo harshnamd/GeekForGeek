@@ -24,4 +24,4 @@ Contributions, feedback, and suggestions are always welcome! If you'd like to im
 
 If you find these solutions useful, consider following my GitHub profile and connecting with me on LinkedIn!
 
-##Happy Coding! 🎉
+## Happy Coding! 🎉
