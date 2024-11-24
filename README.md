@@ -16,11 +16,11 @@ Regular Updates: New solutions will be added consistently as I tackle more Geeks
 
 Java: The primary programming language for the solutions.
 
-##🤝 Contributions
+## 🤝 Contributions
 
 Contributions, feedback, and suggestions are always welcome! If you'd like to improve a solution or share a different approach, feel free to open a pull request.
 
-##📬 Connect with Me
+## 📬 Connect with Me
 
 If you find these solutions useful, consider following my GitHub profile and connecting with me on LinkedIn!
 
