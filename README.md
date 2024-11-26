@@ -15,6 +15,7 @@ Regular Updates: New solutions will be added consistently as I tackle more Geeks
 ##🛠 Technologies Used
 
 Java >>>
+
 Python >>>
 
 ## 🤝 Contributions
