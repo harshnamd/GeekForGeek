@@ -14,7 +14,8 @@ Regular Updates: New solutions will be added consistently as I tackle more Geeks
 
 ##🛠 Technologies Used
 
-Java: The primary programming language for the solutions.
+Java >>>
+Python >>>
 
 ## 🤝 Contributions
 
